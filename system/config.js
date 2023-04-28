@@ -1,8 +1,8 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '994408364923'
+global.owner = '6288271138135'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'SIAPA SAJA'
 // Database name (Default: database)
 global.database = 'bot'
 // Maximum upload file size limit (Default : 100 MB)
